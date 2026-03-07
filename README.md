@@ -6,9 +6,9 @@
 
 ### 🚀 À Propos
 
-- 🔭 Je travaille sur la conception d'un **ERP/CRM basé sur une architecture Micro-services** (.NET Core / Spring Boot / Angular / Docker).
-- 🌱 J'approfondis mes compétences en **Intelligence Artificielle et Machine Learning** (Python, traitement de datasets) et sur le framework **Django**.
-- 💡 J'ai un fort attrait pour la conception d'architectures évolutives, le Code Propre (Clean Code) et les méthodologies Agile/Scrum.
+- 🔭 Je suis particulièrement passionné par l'**Intelligence Artificielle**, un domaine que j'explore continuellement pour comprendre ses enjeux et innover.
+- 🌱 Je conçois et développe des **applications robustes et performantes**, en m'appuyant sur des architectures logicielles modernes.
+- ⚙️ J'ai également de l'intérêt pour la culture **DevOps**, utile pour automatiser et consolider le cycle de vie de développement.
 - 📫 Me joindre : **marouankiker@gmail.com** ou sur [LinkedIn](https://www.linkedin.com/in/marouan-kiker-a6a1412a5)
 
 ---
@@ -43,13 +43,3 @@
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-### 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarouanKiker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarouanKiker&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langages" />
-</div>
