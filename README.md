@@ -1,14 +1,14 @@
 # Salut 👋, je suis Marouan KIKER !
 
-**Élève Ingénieur en Génie Informatique (4ème année)** passionné par le développement logiciel, la conception d'architectures robustes (Micro-services) et l'Intelligence Artificielle. Actuellement en cycle d'ingénieur à l'EHEI (Oujda, Maroc).
+**Élève Ingénieur en Génie Informatique** passionné par le développement logiciel, la conception d'architectures robustes (Micro-services) et l'Intelligence Artificielle. Actuellement en cycle d'ingénieur à l'EHEI (Oujda, Maroc).
 
 ---
 
 ### 🚀 À Propos
 
-- 🔭 Je travaille actuellement sur la conception d'un **ERP/CRM basé sur une architecture Micro-services** (.NET Core / Spring Boot / Angular / Docker).
+- 🔭 Je travaille sur la conception d'un **ERP/CRM basé sur une architecture Micro-services** (.NET Core / Spring Boot / Angular / Docker).
 - 🌱 J'approfondis mes compétences en **Intelligence Artificielle et Machine Learning** (Python, traitement de datasets) et sur le framework **Django**.
-- 💡 Je participe activement à des hackathons pour relever des défis techniques et concevoir des solutions innovantes.
+- 💡 J'ai un fort attrait pour la conception d'architectures évolutives, le Code Propre (Clean Code) et les méthodologies Agile/Scrum.
 - 📫 Me joindre : **marouankiker@gmail.com** ou sur [LinkedIn](https://www.linkedin.com/in/marouan-kiker-a6a1412a5)
 
 ---
@@ -48,11 +48,8 @@
 
 ### 📊 Statistiques GitHub
 
-<p align="center">
-  <a href="https://github.com/MarouanKiker">
-    <img src="https://github-readme-stats.vercel.app/api?username=MarouanKiker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Statistiques de MarouanKiker" height="150" />
-  </a>
-  <a href="https://github.com/MarouanKiker">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarouanKiker&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Langages les plus utilisés" height="150" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarouanKiker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarouanKiker&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langages" />
+</div>
