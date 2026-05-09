@@ -6,8 +6,8 @@
 
 ### 🚀 À Propos
 
-- 🔭 Je suis particulièrement passionné par l'**Intelligence Artificielle**, un domaine que j'explore continuellement pour comprendre ses enjeux et innover.
 - 🌱 Je conçois et développe des **applications robustes et performantes**, en m'appuyant sur des architectures logicielles modernes.
+- 🔭 Je suis tout aussi passionné par l'**Intelligence Artificielle**, un domaine que j'explore continuellement pour comprendre ses enjeux et innover.
 - ⚙️ J'ai également de l'intérêt pour la culture **DevOps**, utile pour automatiser et consolider le cycle de vie de développement.
 - 📫 Me joindre : **marouankiker@gmail.com** ou sur [LinkedIn](https://www.linkedin.com/in/marouan-kiker-a6a1412a5)
 
